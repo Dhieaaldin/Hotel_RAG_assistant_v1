@@ -1,0 +1,263 @@
+[
+    {
+        "id": "hotel_overview",
+        "text": "Présentation - Hôtel So'Co by HappyCulture : L'Hôtel So'Co 3 étoiles raconte l'histoire d'un ancien atelier ayant conservé son âme artisanale. Le hall présente de beaux volumes avec des murs ornés de trompe-l'œil et de tapisseries originales, un mélange de matériaux bruts et une décoration contrastant esthétique vintage et design contemporain. L'établissement fait partie de la collection HappyCulture.",
+        "metadata": {
+            "type": "hotel",
+            "category": "overview",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "policy_checkin_checkout",
+        "text": "Politique de l'hôtel - Arrivée et Départ : L'enregistrement (check-in) s'effectue à partir de 14h00 ou 15h00 selon les sources. Le départ (check-out) doit avoir lieu avant 11h00 ou 12h00 selon les sources. La réception est ouverte 24h/24 pour accueillir les clients. Les clients arrivant avant l'heure d'enregistrement peuvent déposer leurs bagages gratuitement à la bagagerie.",
+        "metadata": {
+            "type": "policy",
+            "category": "check_in_out",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "policy_age_minimum",
+        "text": "Politique de l'hôtel - Âge minimum : L'âge minimum pour s'enregistrer à l'hôtel est de 18 ans.",
+        "metadata": {
+            "type": "policy",
+            "category": "age_requirement",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "policy_cancellation",
+        "text": "Politique de l'hôtel - Annulation : Les conditions d'annulation et de prépaiement varient en fonction du type d'hébergement et des dates choisies. Il est nécessaire de vérifier les conditions applicables au moment de la réservation pour la chambre et le tarif sélectionnés.",
+        "metadata": {
+            "type": "policy",
+            "category": "cancellation",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "policy_pets",
+        "text": "Politique de l'hôtel - Animaux de compagnie : Les animaux de compagnie sont admis à l'hôtel. Un supplément de 20 EUR par animal et par nuit s'applique. Les animaux d'assistance sont les bienvenus et exemptés de frais avec la documentation appropriée. Les chambres acceptant les animaux peuvent être limitées à certains types de chambres spécifiques.",
+        "metadata": {
+            "type": "policy",
+            "category": "pets",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "policy_payment",
+        "text": "Politique de l'hôtel - Modes de paiement : L'établissement accepte les cartes de crédit pour le règlement. Les espèces ne sont pas acceptées comme moyen de paiement.",
+        "metadata": {
+            "type": "policy",
+            "category": "payment",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "policy_smoking",
+        "text": "Politique de l'hôtel - Tabagisme : L'Hôtel So'Co est un établissement 100% non-fumeur. Il est interdit de fumer, y compris les cigarettes électroniques et le vapotage, dans toutes les chambres, couloirs et espaces publics intérieurs.",
+        "metadata": {
+            "type": "policy",
+            "category": "smoking",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "policy_city_tax",
+        "text": "Politique de l'hôtel - Taxe de séjour : Une taxe de séjour de 1,50 EUR par personne et par jour est applicable et n'est pas incluse dans le tarif de la chambre.",
+        "metadata": {
+            "type": "policy",
+            "category": "taxes",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "service_wifi",
+        "text": "Services de l'hôtel - Wi-Fi Internet : Le Wi-Fi gratuit et illimité est disponible dans tout l'établissement, y compris dans les chambres et les espaces publics. L'hôtel dispose d'une connexion Super Wifi pour garantir une navigation fluide. Aucun mot de passe n'est requis grâce au système HappyCulture.",
+        "metadata": {
+            "type": "service",
+            "category": "wifi",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "service_reception",
+        "text": "Services de l'hôtel - Réception : La réception est ouverte 24h/24 et 7j/7 pour répondre à tous vos besoins. Le personnel multilingue est disponible pour vous assister avec les réservations, les informations touristiques et toute demande spéciale.",
+        "metadata": {
+            "type": "service",
+            "category": "front_desk",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "service_breakfast",
+        "text": "Services de l'hôtel - Petit-déjeuner : Un petit-déjeuner buffet continental est servi tous les jours de 7h30 à 10h00 sur place. Le buffet comprend viennoiseries fraîches, fruits, yaourts, céréales, café, thé et jus. Le tarif est d'environ 17 EUR par adulte et 6 EUR par enfant. Le petit-déjeuner n'est pas inclus dans le tarif de base de la chambre.",
+        "metadata": {
+            "type": "service",
+            "category": "breakfast",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "service_happytime",
+        "text": "Services de l'hôtel - HappyTime : Chaque soir de 18h00 à 20h00, l'Hôtel So'Co invite gratuitement ses clients à découvrir la gastronomie locale de Provence avec une dégustation de vin. Cette réception quotidienne gratuite offerte par la direction est un moment convivial pour échanger avec d'autres voyageurs.",
+        "metadata": {
+            "type": "service",
+            "category": "happy_hour",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "service_yummy_corner",
+        "text": "Services de l'hôtel - Yummy Corner : L'hôtel dispose d'un Yummy Corner avec une machine à café Nespresso en libre-service, accessible à tout moment pour les clients. Ce coin gourmand permet de profiter d'un café de qualité à toute heure.",
+        "metadata": {
+            "type": "service",
+            "category": "coffee_corner",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "service_luggage",
+        "text": "Services de l'hôtel - Bagagerie : Une consigne à bagages est mise à disposition gratuitement. Les clients arrivant avant l'heure d'enregistrement ou souhaitant explorer la ville après le départ peuvent y déposer leurs valises en toute sécurité.",
+        "metadata": {
+            "type": "service",
+            "category": "luggage_storage",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "service_laundry",
+        "text": "Services de l'hôtel - Blanchisserie et Pressing : Un service de blanchisserie et de pressing est disponible sur demande. Les clients peuvent remettre leurs vêtements à la réception pour un nettoyage professionnel.",
+        "metadata": {
+            "type": "service",
+            "category": "laundry",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "service_business",
+        "text": "Services de l'hôtel - Services professionnels : L'hôtel met à disposition un service de fax et de photocopie pour les besoins professionnels des clients. Des coffres-forts sont également disponibles pour sécuriser vos objets de valeur.",
+        "metadata": {
+            "type": "service",
+            "category": "business",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "service_accessibility",
+        "text": "Services de l'hôtel - Accessibilité : L'établissement dispose d'un ascenseur et de chambres adaptées aux personnes à mobilité réduite (PMR). L'accès en fauteuil roulant est garanti, avec des toilettes et salles de bain adaptées.",
+        "metadata": {
+            "type": "service",
+            "category": "accessibility",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "service_family",
+        "text": "Services de l'hôtel - Services familiaux : L'hôtel est favorable aux familles avec des lits d'enfants disponibles sur demande. Une salle de jeux avec des jeux de société est mise à disposition pour divertir les plus jeunes.",
+        "metadata": {
+            "type": "service",
+            "category": "family",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "service_extras",
+        "text": "Services de l'hôtel - Services HappyCulture : En tant que membre de la collection HappyCulture, l'hôtel offre des services supplémentaires incluant un chargeur universel pour téléphones mobiles disponible à la réception, et de nombreux autres équipements pour rendre votre séjour agréable.",
+        "metadata": {
+            "type": "service",
+            "category": "extras",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "room_general",
+        "text": "Chambres - Équipements généraux : L'hôtel dispose de 50 chambres équipées de climatisation, chauffage, insonorisation, télévision LCD à écran plat avec chaînes satellite, Wi-Fi gratuit, coffre-fort personnel, salle de bain privative moderne avec douche, articles de toilette gratuits, sèche-cheveux, peignoirs de bain et pantoufles dans certaines catégories. Toutes les chambres offrent un espace de rangement, un fer et une table à repasser.",
+        "metadata": {
+            "type": "room",
+            "category": "general_amenities",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "room_types_overview",
+        "text": "Chambres - Types disponibles : L'hôtel propose différentes catégories de chambres pour répondre aux besoins de chaque voyageur. Certaines chambres offrent des vues sur la ville. Des chambres familiales sont également disponibles pour accueillir les groupes et familles.",
+        "metadata": {
+            "type": "room",
+            "category": "types_overview",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "location_address",
+        "text": "Localisation - Adresse et accès : L'Hôtel So'Co by HappyCulture est situé au 27 Avenue Thiers, 06000 Nice, France, dans le quartier des Musiciens. L'établissement se trouve à seulement 270 mètres de la gare de Nice-Ville qui dessert de nombreux lieux d'intérêt de la Côte d'Azur tels que Cannes, Antibes, Villefranche-sur-Mer, Èze et même l'Italie. L'arrêt de tramway le plus proche est à 500 mètres. Depuis l'autoroute A8, prendre la sortie Nice Nord direction Gare SNCF.",
+        "metadata": {
+            "type": "location",
+            "category": "address",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "location_airport",
+        "text": "Localisation - Aéroport : L'aéroport de Nice-Côte d'Azur (NCE) est situé à 6,4 km de l'hôtel. Depuis l'aéroport, prenez le bus 99 et descendez à l'arrêt de la gare SNCF, l'hôtel est à proximité immédiate.",
+        "metadata": {
+            "type": "location",
+            "category": "airport",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "location_nearby_beach",
+        "text": "Localisation - Plages et Promenade : La célèbre Promenade des Anglais et les plages de la Méditerranée sont accessibles en 15 minutes à pied (environ 1,1 km). L'hôtel est idéalement situé entre la gare et la plage, permettant de combiner découverte, détente et authenticité.",
+        "metadata": {
+            "type": "location",
+            "category": "nearby_beach",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "location_nearby_old_town",
+        "text": "Localisation - Vieux-Nice et attractions : Le Vieux-Nice pittoresque avec ses ruelles animées se trouve à 1,4 km de l'hôtel. Le parc de la Colline du Château est à quelques minutes de marche. Le musée d'art moderne et d'art contemporain (MAMAC) est à 2 km. Le Temple Réformé de Nice est à moins de 450 mètres. L'Avenue Jean Médecin avec ses boutiques est à environ 500 mètres.",
+        "metadata": {
+            "type": "location",
+            "category": "nearby_attractions",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "location_nearby_amenities",
+        "text": "Localisation - Commodités : L'hôtel est niché au cœur de la vie niçoise, entouré de nombreux restaurants, bars et cafés. Les rues commerçantes sont à proximité immédiate. Le marché aux fleurs est à 6 minutes à pied. Nice Acropolis et le Port de Nice sont à environ 1 km.",
+        "metadata": {
+            "type": "location",
+            "category": "nearby_amenities",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "contact_main",
+        "text": "Contact - Informations principales : Pour toute réservation ou demande d'information, contactez l'Hôtel So'Co by HappyCulture au 27 Avenue Thiers, 06000 Nice, France. La réception est disponible 24h/24 et 7j/7. Le site officiel propose une réduction de 10% sur les réservations directes avec garantie du meilleur tarif.",
+        "metadata": {
+            "type": "contact",
+            "category": "main",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "sustainability_rating",
+        "text": "Développement durable - Affichage environnemental : L'Hôtel So'Co a participé au dispositif d'affichage environnemental initié par l'ADEME et le Ministère de la Transition écologique. Un audit d'empreinte environnementale a évalué l'établissement selon quatre critères principaux : les émissions de CO₂, la consommation d'eau par client, la consommation d'énergie par client, et la proportion d'achats provenant de filières biologiques ou écolabellisées. L'hôtel a obtenu la note A, la meilleure notation possible.",
+        "metadata": {
+            "type": "sustainability",
+            "category": "environmental_rating",
+            "language": "fr"
+        }
+    },
+    {
+        "id": "health_safety",
+        "text": "Santé et Sécurité : L'hôtel a été inspecté par un expert indépendant en hygiène, propreté et désinfection pour garantir les standards sanitaires les plus élevés.",
+        "metadata": {
+            "type": "health",
+            "category": "safety",
+            "language": "fr"
+        }
+    }
+]

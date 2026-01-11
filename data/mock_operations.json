@@ -1,0 +1,570 @@
+{
+    "rooms": [
+        {
+            "room_id": "101",
+            "room_type": "standard",
+            "floor": 1,
+            "beds": "1 Double",
+            "status": "available",
+            "rate": 89,
+            "features": []
+        },
+        {
+            "room_id": "102",
+            "room_type": "standard",
+            "floor": 1,
+            "beds": "2 Single",
+            "status": "occupied",
+            "rate": 89,
+            "features": []
+        },
+        {
+            "room_id": "103",
+            "room_type": "standard",
+            "floor": 1,
+            "beds": "1 Double",
+            "status": "available",
+            "rate": 89,
+            "features": [
+                "accessible"
+            ]
+        },
+        {
+            "room_id": "104",
+            "room_type": "standard",
+            "floor": 1,
+            "beds": "2 Single",
+            "status": "available",
+            "rate": 89,
+            "features": []
+        },
+        {
+            "room_id": "105",
+            "room_type": "standard",
+            "floor": 1,
+            "beds": "1 Double",
+            "status": "occupied",
+            "rate": 89,
+            "features": []
+        },
+        {
+            "room_id": "201",
+            "room_type": "standard",
+            "floor": 2,
+            "beds": "1 Double",
+            "status": "available",
+            "rate": 89,
+            "features": []
+        },
+        {
+            "room_id": "202",
+            "room_type": "standard",
+            "floor": 2,
+            "beds": "2 Single",
+            "status": "available",
+            "rate": 89,
+            "features": []
+        },
+        {
+            "room_id": "203",
+            "room_type": "standard",
+            "floor": 2,
+            "beds": "1 Double",
+            "status": "occupied",
+            "rate": 89,
+            "features": []
+        },
+        {
+            "room_id": "204",
+            "room_type": "standard",
+            "floor": 2,
+            "beds": "2 Single",
+            "status": "available",
+            "rate": 89,
+            "features": []
+        },
+        {
+            "room_id": "205",
+            "room_type": "standard",
+            "floor": 2,
+            "beds": "1 Double",
+            "status": "maintenance",
+            "rate": 89,
+            "features": []
+        },
+        {
+            "room_id": "301",
+            "room_type": "standard",
+            "floor": 3,
+            "beds": "1 Double",
+            "status": "available",
+            "rate": 95,
+            "features": [
+                "city_view"
+            ]
+        },
+        {
+            "room_id": "302",
+            "room_type": "standard",
+            "floor": 3,
+            "beds": "2 Single",
+            "status": "available",
+            "rate": 95,
+            "features": [
+                "city_view"
+            ]
+        },
+        {
+            "room_id": "303",
+            "room_type": "standard",
+            "floor": 3,
+            "beds": "1 Double",
+            "status": "occupied",
+            "rate": 95,
+            "features": [
+                "city_view"
+            ]
+        },
+        {
+            "room_id": "304",
+            "room_type": "standard",
+            "floor": 3,
+            "beds": "1 Double",
+            "status": "available",
+            "rate": 95,
+            "features": [
+                "city_view"
+            ]
+        },
+        {
+            "room_id": "305",
+            "room_type": "standard",
+            "floor": 3,
+            "beds": "2 Single",
+            "status": "available",
+            "rate": 95,
+            "features": [
+                "city_view"
+            ]
+        },
+        {
+            "room_id": "401",
+            "room_type": "superior",
+            "floor": 4,
+            "beds": "1 Queen",
+            "status": "available",
+            "rate": 115,
+            "features": [
+                "city_view",
+                "balcony"
+            ]
+        },
+        {
+            "room_id": "402",
+            "room_type": "superior",
+            "floor": 4,
+            "beds": "1 Queen",
+            "status": "occupied",
+            "rate": 115,
+            "features": [
+                "city_view"
+            ]
+        },
+        {
+            "room_id": "403",
+            "room_type": "superior",
+            "floor": 4,
+            "beds": "1 Queen",
+            "status": "available",
+            "rate": 115,
+            "features": [
+                "city_view",
+                "balcony"
+            ]
+        },
+        {
+            "room_id": "404",
+            "room_type": "superior",
+            "floor": 4,
+            "beds": "1 Queen",
+            "status": "available",
+            "rate": 115,
+            "features": [
+                "city_view"
+            ]
+        },
+        {
+            "room_id": "405",
+            "room_type": "superior",
+            "floor": 4,
+            "beds": "1 Queen",
+            "status": "occupied",
+            "rate": 115,
+            "features": [
+                "city_view",
+                "corner"
+            ]
+        },
+        {
+            "room_id": "501",
+            "room_type": "superior",
+            "floor": 5,
+            "beds": "1 Queen",
+            "status": "available",
+            "rate": 125,
+            "features": [
+                "city_view",
+                "balcony"
+            ]
+        },
+        {
+            "room_id": "502",
+            "room_type": "superior",
+            "floor": 5,
+            "beds": "1 Queen",
+            "status": "available",
+            "rate": 125,
+            "features": [
+                "city_view",
+                "balcony"
+            ]
+        },
+        {
+            "room_id": "503",
+            "room_type": "superior",
+            "floor": 5,
+            "beds": "1 Queen",
+            "status": "occupied",
+            "rate": 125,
+            "features": [
+                "city_view",
+                "corner"
+            ]
+        },
+        {
+            "room_id": "504",
+            "room_type": "superior",
+            "floor": 5,
+            "beds": "1 Queen",
+            "status": "available",
+            "rate": 125,
+            "features": [
+                "city_view",
+                "balcony"
+            ]
+        },
+        {
+            "room_id": "505",
+            "room_type": "superior",
+            "floor": 5,
+            "beds": "1 Queen",
+            "status": "available",
+            "rate": 125,
+            "features": [
+                "city_view"
+            ]
+        },
+        {
+            "room_id": "106",
+            "room_type": "family",
+            "floor": 1,
+            "beds": "1 Double + 2 Single",
+            "status": "available",
+            "rate": 145,
+            "features": [
+                "family_friendly"
+            ]
+        },
+        {
+            "room_id": "206",
+            "room_type": "family",
+            "floor": 2,
+            "beds": "1 Double + 2 Single",
+            "status": "occupied",
+            "rate": 145,
+            "features": [
+                "family_friendly"
+            ]
+        },
+        {
+            "room_id": "306",
+            "room_type": "family",
+            "floor": 3,
+            "beds": "1 Double + 2 Single",
+            "status": "available",
+            "rate": 155,
+            "features": [
+                "family_friendly",
+                "city_view"
+            ]
+        },
+        {
+            "room_id": "406",
+            "room_type": "family",
+            "floor": 4,
+            "beds": "1 Double + 2 Single",
+            "status": "available",
+            "rate": 165,
+            "features": [
+                "family_friendly",
+                "city_view"
+            ]
+        },
+        {
+            "room_id": "107",
+            "room_type": "standard",
+            "floor": 1,
+            "beds": "1 Double",
+            "status": "available",
+            "rate": 89,
+            "features": [
+                "pet_friendly"
+            ]
+        },
+        {
+            "room_id": "108",
+            "room_type": "standard",
+            "floor": 1,
+            "beds": "2 Single",
+            "status": "available",
+            "rate": 89,
+            "features": [
+                "pet_friendly"
+            ]
+        },
+        {
+            "room_id": "207",
+            "room_type": "standard",
+            "floor": 2,
+            "beds": "1 Double",
+            "status": "occupied",
+            "rate": 89,
+            "features": [
+                "pet_friendly"
+            ]
+        }
+    ],
+    "reservations": [
+        {
+            "reservation_id": "SC-20260110-001",
+            "guest_name": "Pierre Dubois",
+            "email": "p.dubois@email.fr",
+            "phone": "+33 6 12 34 56 78",
+            "room_id": "102",
+            "room_type": "standard",
+            "check_in": "2026-01-10",
+            "check_out": "2026-01-13",
+            "guests": 2,
+            "status": "checked_in",
+            "total_amount": 267,
+            "payment_status": "paid",
+            "special_requests": "Petit-déjeuner inclus",
+            "add_ons": [
+                "breakfast"
+            ]
+        },
+        {
+            "reservation_id": "SC-20260109-001",
+            "guest_name": "Sophie Martin",
+            "email": "sophie.martin@gmail.com",
+            "phone": "+33 6 98 76 54 32",
+            "room_id": "402",
+            "room_type": "superior",
+            "check_in": "2026-01-09",
+            "check_out": "2026-01-12",
+            "guests": 1,
+            "status": "checked_in",
+            "total_amount": 345,
+            "payment_status": "paid",
+            "special_requests": "Chambre calme étage élevé",
+            "add_ons": []
+        },
+        {
+            "reservation_id": "SC-20260110-002",
+            "guest_name": "Marco Rossi",
+            "email": "m.rossi@email.it",
+            "phone": "+39 333 1234567",
+            "room_id": "303",
+            "room_type": "standard",
+            "check_in": "2026-01-10",
+            "check_out": "2026-01-14",
+            "guests": 2,
+            "status": "checked_in",
+            "total_amount": 380,
+            "payment_status": "paid",
+            "special_requests": "Arrivée tardive prévue 23h",
+            "add_ons": []
+        },
+        {
+            "reservation_id": "SC-20260108-001",
+            "guest_name": "Emma Schmidt",
+            "email": "emma.schmidt@email.de",
+            "phone": "+49 171 2345678",
+            "room_id": "206",
+            "room_type": "family",
+            "check_in": "2026-01-08",
+            "check_out": "2026-01-11",
+            "guests": 4,
+            "status": "checked_in",
+            "total_amount": 435,
+            "payment_status": "paid",
+            "special_requests": "Lit bébé requis, famille avec 2 enfants",
+            "add_ons": [
+                "baby_crib"
+            ]
+        },
+        {
+            "reservation_id": "SC-20260108-002",
+            "guest_name": "James Anderson",
+            "email": "j.anderson@email.com",
+            "phone": "+44 7700 900123",
+            "room_id": "503",
+            "room_type": "superior",
+            "check_in": "2026-01-08",
+            "check_out": "2026-01-12",
+            "guests": 2,
+            "status": "checked_in",
+            "total_amount": 500,
+            "payment_status": "paid",
+            "special_requests": "Anniversaire de mariage - déco romantique souhaitée",
+            "add_ons": [
+                "champagne",
+                "flowers"
+            ]
+        },
+        {
+            "reservation_id": "SC-20260107-001",
+            "guest_name": "David Chen",
+            "email": "david.chen@email.com",
+            "phone": "+1 555 123 4567",
+            "room_id": "207",
+            "room_type": "standard",
+            "check_in": "2026-01-07",
+            "check_out": "2026-01-11",
+            "guests": 1,
+            "status": "checked_in",
+            "total_amount": 376,
+            "payment_status": "paid",
+            "special_requests": "Voyage avec chien (petit), chambre pet-friendly",
+            "add_ons": [
+                "pet_fee"
+            ]
+        },
+        {
+            "reservation_id": "SC-20260105-001",
+            "guest_name": "Camille Leroux",
+            "email": "c.leroux@company.fr",
+            "phone": "+33 6 45 67 89 01",
+            "room_id": "105",
+            "room_type": "standard",
+            "check_in": "2026-01-05",
+            "check_out": "2026-01-12",
+            "guests": 1,
+            "status": "checked_in",
+            "total_amount": 623,
+            "payment_status": "company_billing",
+            "special_requests": "Séjour professionnel, facture entreprise",
+            "add_ons": []
+        },
+        {
+            "reservation_id": "SC-20260112-001",
+            "guest_name": "Anna Kowalski",
+            "email": "anna.k@email.pl",
+            "phone": "+48 600 123 456",
+            "room_id": "405",
+            "room_type": "superior",
+            "check_in": "2026-01-12",
+            "check_out": "2026-01-15",
+            "guests": 2,
+            "status": "confirmed",
+            "total_amount": 345,
+            "payment_status": "pending",
+            "special_requests": "Arrivée depuis aéroport Nice, navette disponible?",
+            "add_ons": []
+        },
+        {
+            "reservation_id": "SC-20260113-001",
+            "guest_name": "Luis Garcia",
+            "email": "luis.garcia@email.es",
+            "phone": "+34 612 345 678",
+            "room_id": "501",
+            "room_type": "superior",
+            "check_in": "2026-01-13",
+            "check_out": "2026-01-16",
+            "guests": 2,
+            "status": "confirmed",
+            "total_amount": 375,
+            "payment_status": "deposit_paid",
+            "special_requests": "Première visite à Nice, conseils attractions bienvenues",
+            "add_ons": [
+                "breakfast"
+            ]
+        },
+        {
+            "reservation_id": "SC-20260114-001",
+            "guest_name": "Yuki Tanaka",
+            "email": "yuki.t@email.jp",
+            "phone": "+81 90 1234 5678",
+            "room_id": "301",
+            "room_type": "standard",
+            "check_in": "2026-01-14",
+            "check_out": "2026-01-18",
+            "guests": 1,
+            "status": "confirmed",
+            "total_amount": 380,
+            "payment_status": "pending",
+            "special_requests": "Voyage solo, intéressé par HappyTime dégustation vin",
+            "add_ons": []
+        }
+    ],
+    "catalog": [
+        {
+            "item_id": "service_breakfast",
+            "name": "Petit-déjeuner Buffet",
+            "description": "Buffet continental à volonté avec produits locaux et bio",
+            "price": 17,
+            "category": "dining",
+            "image": "https://images.unsplash.com/photo-1493770348161-369560ae357d?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+            "item_id": "service_spa_access",
+            "name": "Accès Spa (2h)",
+            "description": "Accès à l'espace bien-être : sauna, hammam et jacuzzi",
+            "price": 35,
+            "category": "wellness",
+            "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+            "item_id": "service_city_tour",
+            "name": "Visite Guidée du Vieux Nice",
+            "description": "Tour guidé de 2h30 à travers les ruelles historiques",
+            "price": 25,
+            "category": "activity",
+            "image": "https://images.unsplash.com/photo-1534258936925-c48947b6bf02?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+            "item_id": "service_champagne",
+            "name": "Bouteille de Champagne",
+            "description": "Champagne Moët & Chandon servi en chambre",
+            "price": 85,
+            "category": "room_service",
+            "image": "https://images.unsplash.com/photo-1585553616435-2dc0a54e271d?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+            "item_id": "service_late_checkout",
+            "name": "Départ Tardif",
+            "description": "Conservez votre chambre jusqu'à 14h00",
+            "price": 40,
+            "category": "service",
+            "image": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+            "item_id": "service_airport_shuttle",
+            "name": "Navette Aéroport",
+            "description": "Transfert privé vers/depuis l'aéroport Nice Côte d'Azur",
+            "price": 50,
+            "category": "transport",
+            "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=800&q=80"
+        }
+    ]
+}

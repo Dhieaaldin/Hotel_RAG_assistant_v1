@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-openai
+langchain-mongodb
+pymongo
+python-dotenv
+pydantic
+langchain-text-splitters
+typing
+gunicorn
