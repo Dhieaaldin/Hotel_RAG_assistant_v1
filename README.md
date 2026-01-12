@@ -3,7 +3,9 @@
 ![HotelBot Screenshot](Capture%20d'écran%202026-01-11%20153810.png)
 
 A sophisticated **Retrieval-Augmented Generation (RAG)** powered hotel customer support chatbot with intent routing and sales optimization. Built for **Hotels** .
+## 🎥 Demo Video
 
+[https://github.com/Dhieaaldin/Hotel_RAG_assistant_v1/blob/main/demo.mp4](https://github.com/Dhieaaldin/Hotel_RAG_assistant_v1/blob/main/demo.mp4)
 ---
 
 ## 📋 Table of Contents
